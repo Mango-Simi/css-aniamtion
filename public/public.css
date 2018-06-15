@@ -1,0 +1,166 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,button,textarea,p,blockquote,th,td{margin:0; padding:0;}
+body,button,input,select,textarea{font-family:'PingFangSC-Regular';}
+ol,ul,li{list-style:none;}
+a{text-decoration:none; cursor:pointer;}
+input,button{outline:none}
+button{cursor:pointer;}
+
+.iconfontyyy{
+    font-family:"iconfontyyy" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+  }
+input{color:#333;}
+input::-webkit-input-placeholder{color:#999;}
+input::-moz-input-placeholder{color:#999;}
+input,button,select,textarea{outline:none}
+textarea{resize:none}
+
+.gray_bar{
+  width:100%;
+  height:16px;
+  border-bottom:#DEDEDE 1px solid;
+  border-top:#DEDEDE 1px solid;
+  background:#FAFAFA;
+}
+.el-tooltip__popper{
+    width: 300px !important;
+}
+.el-dialog__footer{
+    border-top: 1px solid #DEDEDE;
+}
+.el-dialog__footer{
+    text-align: center !important;
+}
+.el-dialog__title{
+    font-size: 14px;
+    color: #333333;
+}
+.el-input__inner{
+    border-radius: 2px;
+}
+.el-input__inner{
+    height: 36px;
+}
+.order-box .el-input__inner{
+    height: 36px;
+}
+.commodity .el-input__inner{
+    height: 36px;
+}
+.commodity .commodity-dialog .el-input__inner{
+    width: 320px !important;
+}
+.export-integration-box .el-form-item__label{
+    font-size: 12px;
+}
+.export-integration-box .el-input__inner{
+    height: 32px;
+    font-size: 12px;
+    width: 240px;
+}
+.vat-order-box .el-input__inner{
+    height: 32px;
+    font-size: 12px;
+    width: 240px;
+}
+.export-integration-box .dest-ware-box .el-input__inner{
+    width: 750px;
+}
+.unti-autocomplete .el-input__inner {
+    width: 100px !important;
+}
+.table-box-contact .el-radio__label{
+    display: none;
+}
+.table-box-server .el-radio__label{
+    display: none;
+}
+.declareprice .el-input__inner{
+    width: 100px !important;
+}
+.el-radio__label{
+    font-size: 12px;
+}
+.vat-order-box .upload_wrap .up_img {
+    width: 200px !important;
+}
+.vat-order-detail .upload_wrap .up_img {
+    width: 200px !important;
+}
+.currency-select .el-input__inner{
+    border-radius: 0px;
+    width: 100px;
+    margin-left: -5px;
+}
+.trademark-order-box .el-input__inner{
+    height: 32px;
+    font-size: 12px;
+}
+.trademark-order-box .upload_wrap .up_img {
+    width: 780px !important;
+}
+.declaration-message-box .el-input__inner{
+    width: 240px !important;
+    font-size: 12px;
+    height: 32px;
+}
+.declaration-message-box .select-box .el-input__inner{
+    width: 160px !important;
+    font-size: 12px;
+    height: 32px;
+}
+
+.declaration-message-box .select-input-box .el-input__inner{
+    width: 120px !important;
+    font-size: 12px;
+    height: 32px;
+}
+.declaration-message-box .el-form-item__label{
+    font-size: 12px;
+    float: inherit;
+}
+.declaration-message-box .el-form-item{
+    margin-bottom: 0px !important;
+}
+.declaration-message-box .select-box .el-textarea__inner{
+    width: 95%;
+}
+.hsCode .el-input__inner{
+    border: 0!important;
+}
+.table-box .el-table .el-table__header-wrapper .el-table__header {
+    width: 100%!important;
+}
+.table-box .el-table .el-table__body-wrapper .el-table__body{
+    width: 100%!important;
+}
+.tac .el-col{
+    width:100%!important;
+}
+.operaNav .el-col .el-menu .el-submenu .el-menu .el-menu-item-group  ul .el-menu-item{
+    word-wrap:break-word!important;
+    height: 66px!important;
+
+}
+.detail-box .el-form-item{
+    margin-bottom: 0px !important;
+}
+.alert-bill-box .el-form-item {
+    margin-bottom: 12px !important;
+}
+.alert-bill-box .el-input {
+    width: 70% !important;
+}
+.input-submit-box .el-input{
+    width: 200px;
+}
+.fbaproduct-box .el-form-item{
+    margin-bottom: 10px !important;
+}
+.fbaproduct-box .up_img{
+    margin-bottom:0px !important;
+}
